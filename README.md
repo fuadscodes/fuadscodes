@@ -19,3 +19,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&color=0d1116)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=0d1116)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&color=0d1116)
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&color=0d1116&logoColor=0072b1)](https://www.linkedin.com/in/fuad-herac-a69311218/)
+[![E-mail](https://img.shields.io/badge/-Mail-black?style=flat-square&logo=gmail&color=0d1116)](mailto:fuad.herac@gmail.com?subject=GitHub)
