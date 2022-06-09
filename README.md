@@ -1,3 +1,10 @@
+
+
+
+## Fuad Herac - @fuadscodes<br>
+**Welcome to my GitHub Profile!**
+<br><br>
+
 ## Skills and Experience:
 
 ![ React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&color=0d1116)
